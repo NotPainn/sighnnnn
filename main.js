@@ -299,4 +299,4 @@ if(!message.guild) {
 
 
 })
-client.login(process.env.GOD);
+client.login(process.env.DSJ_TOKEN);
