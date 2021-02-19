@@ -299,5 +299,4 @@ if(!message.guild) {
 
 
 })
- 
 client.login(process.env.GOD);
